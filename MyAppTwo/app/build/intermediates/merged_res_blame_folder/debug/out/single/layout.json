@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_view.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_primary.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\nav_header_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_primary.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\activity_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_primary.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\content_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_primary.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\app_bar_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    }
+]

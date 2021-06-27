@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film2_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_film1_background.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_film1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film3_round.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film3_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film2.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film2.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\menu_primary.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\menu\\primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film3_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_art_track.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_baseline_art_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film3_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film1_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_accessibility_new.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_baseline_accessibility_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blank.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film2_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film1.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film1.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film1_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film2_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film3_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film3_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film2_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film2_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film2.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film3.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film3.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film1.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film1.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film3.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film3.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film3_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film3_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film1_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film1.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film1.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_primary.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\nav_header_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_primary.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\content_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film1_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_upward.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_upward.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film3.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film3.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film1_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film1.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film1.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film2_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film2_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film3_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film3.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film3.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film1_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film3_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film2.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film2.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film2.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film2.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film3_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_view.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film1_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_film3_background.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_film3_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film1_round.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film1_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_baseline_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film1_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film2.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film2.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film3.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film3.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film2_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_film2_foreground.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-hdpi\\ic_film2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_primary.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\app_bar_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film2.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film2.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film1.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_film2_round.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_film2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_film3_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_film3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_primary.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\layout\\activity_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_film2_background.xml.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\drawable\\ic_film2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_film1_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_film1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_film3.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_film3.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film2_round.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_film1.png.flat",
+        "source": "C:\\Users\\dreamboy\\AndroidStudioProjects\\MyAppTwo\\app\\src\\main\\res\\mipmap-mdpi\\ic_film1.png"
+    }
+]

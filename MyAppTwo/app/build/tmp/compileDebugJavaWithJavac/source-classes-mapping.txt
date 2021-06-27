@@ -1,0 +1,67 @@
+com/example/myapptwo/databinding/NavHeaderPrimaryBinding.java
+ com.example.myapptwo.databinding.NavHeaderPrimaryBinding
+com/example/myapptwo/ui/slideshow/SlideshowViewModel.java
+ com.example.myapptwo.ui.slideshow.SlideshowViewModel
+com/example/myapptwo/DBfilms.java
+ com.example.myapptwo.DBfilms
+com/example/myapptwo/MyDialogFragmentG.java
+ com.example.myapptwo.MyDialogFragmentG
+ com.example.myapptwo.MyDialogFragmentG$1
+com/example/myapptwo/ui/gallery/GalleryViewModel.java
+ com.example.myapptwo.ui.gallery.GalleryViewModel
+com/example/myapptwo/ui/home/HomeFragment.java
+ com.example.myapptwo.ui.home.HomeFragment
+ com.example.myapptwo.ui.home.HomeFragment$1
+ com.example.myapptwo.ui.home.HomeFragment$2
+ com.example.myapptwo.ui.home.HomeFragment$NewThread
+com/example/myapptwo/databinding/FragmentHomeBinding.java
+ com.example.myapptwo.databinding.FragmentHomeBinding
+com/example/myapptwo/ui/slideshow/SlideshowFragment.java
+ com.example.myapptwo.ui.slideshow.SlideshowFragment
+com/example/myapptwo/ui/home/fragment/BlankFragment.java
+ com.example.myapptwo.ui.home.fragment.BlankFragment
+ com.example.myapptwo.ui.home.fragment.BlankFragment$ForFilm
+ com.example.myapptwo.ui.home.fragment.BlankFragment$NewThread
+com/example/myapptwo/DBusers.java
+ com.example.myapptwo.DBusers
+com/example/myapptwo/mBitmap.java
+ com.example.myapptwo.mBitmap
+com/example/myapptwo/databinding/ActivityPrimaryBinding.java
+ com.example.myapptwo.databinding.ActivityPrimaryBinding
+com/example/myapptwo/ui/home/HomeViewModel.java
+ com.example.myapptwo.ui.home.HomeViewModel
+com/example/myapptwo/databinding/FragmentGalleryBinding.java
+ com.example.myapptwo.databinding.FragmentGalleryBinding
+com/example/myapptwo/Film.java
+ com.example.myapptwo.Film
+com/example/myapptwo/databinding/FragmentBlankBinding.java
+ com.example.myapptwo.databinding.FragmentBlankBinding
+com/example/myapptwo/databinding/FragmentSlideshowBinding.java
+ com.example.myapptwo.databinding.FragmentSlideshowBinding
+com/example/myapptwo/ui/aboutFilm.java
+ com.example.myapptwo.ui.aboutFilm
+com/example/myapptwo/databinding/AppBarPrimaryBinding.java
+ com.example.myapptwo.databinding.AppBarPrimaryBinding
+com/example/myapptwo/BuildConfig.java
+ com.example.myapptwo.BuildConfig
+com/example/myapptwo/databinding/ActivityMainBinding.java
+ com.example.myapptwo.databinding.ActivityMainBinding
+com/example/myapptwo/databinding/CustomViewBinding.java
+ com.example.myapptwo.databinding.CustomViewBinding
+com/example/myapptwo/databinding/ContentPrimaryBinding.java
+ com.example.myapptwo.databinding.ContentPrimaryBinding
+com/example/myapptwo/ui/gallery/GalleryFragment.java
+ com.example.myapptwo.ui.gallery.GalleryFragment
+ com.example.myapptwo.ui.gallery.GalleryFragment$1
+com/example/myapptwo/MainActivity.java
+ com.example.myapptwo.MainActivity
+com/example/myapptwo/MyDialogFragment.java
+ com.example.myapptwo.MyDialogFragment
+ com.example.myapptwo.MyDialogFragment$1
+com/example/myapptwo/PrimaryActivity.java
+ com.example.myapptwo.PrimaryActivity
+com/example/myapptwo/AdapterRecycle.java
+ com.example.myapptwo.AdapterRecycle
+ com.example.myapptwo.AdapterRecycle$1
+ com.example.myapptwo.AdapterRecycle$2
+ com.example.myapptwo.AdapterRecycle$ViewHolder
