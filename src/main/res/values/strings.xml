@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyAppTwo</string>
+    <string name="first_word">Авторизация</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="sig_in">Sig in</string>
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Фильмы</string>
+    <string name="menu_gallery">Избранные фильмы</string>
+    <string name="menu_slideshow">Об Авторе</string>
+    <string name="NameAuthor">Мишенин А.В.</string>
+    <string name="About">Об Авторе:</string>
+    <string name="MyVersion">ver: 0.4(b)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
